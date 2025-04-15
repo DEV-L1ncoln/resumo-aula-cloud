@@ -1,4 +1,3 @@
-# ☁️ AZ-900: Introdução aos Conceitos Básicos do Microsoft Azure
 
 ### 🚀 O que é Computação em Nuvem?
 - Fornecimento de serviços de computação pela Internet.
